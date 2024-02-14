@@ -1,1 +1,2 @@
 # International-Student-Community-Platform
+### The "International Student Community Platform" project endeavors to mitigate the challenges encountered by international students, primarily in securing accommodation and forming social connections in a foreign environment. By focusing on these pertinent real-world issues, the project endeavors to establish a platform that facilitates communication and networking among international students, thereby aiding them in finding support and safe accommodation options.
